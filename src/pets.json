@@ -1,0 +1,103 @@
+[
+  {
+    "id": 0,
+    "name": "Cinny",
+    "picture": "images/cinny.jpg",
+    "age": "1 year",
+    "species": "Cat",
+    "breed" : "Mixed",
+    "location": "Flint, Michigan"
+  },
+  {
+    "id": 1,
+    "name": "Concrete",
+    "picture": "images/concrete.jpg",
+    "age": "12 weeks",
+    "species": "Cat",
+    "breed" : "Longhair",
+    "location": "Midland, Michigan"
+  },
+  {
+    "id": 2,
+    "name": "Mouse",
+    "picture": "images/mouse.jpg",
+    "age": "3 years",
+    "species": "Cat",
+    "breed" : "Longhair",
+    "location": "Grand Rapids, Michigan"
+  },
+  {
+    "id": 3,
+    "name": "Nimbus",
+    "picture": "images/nimbus.jpg",
+    "age": "3 years",
+    "species": "Cat",
+    "breed" : "Mixed",
+    "location": "Mt. Pleasant, Michigan"
+  },
+  {
+    "id": 4,
+    "name": "Gibbous",
+    "picture": "images/pebbles.jpg",
+    "age": "6 Months",
+    "species": "dog",
+    "breed" : "Mixed",
+    "location": "Grand Rapids, Michigan"
+  },
+  {
+    "id": 5,
+    "name": "Pris",
+    "picture": "images/pris.jpg",
+    "age": "5 years",
+    "species": "Cat",
+    "breed" : "Mixed",
+    "location": "Grand Rapids, Michigan"
+  },
+  {
+    "id": 6,
+    "name": "Stormy",
+    "picture": "images/stormy.jpg",
+    "age": "3 years",
+    "species": "Cat",
+    "breed" : "Russian Blue",
+    "location": "Mt. Pleasant, Michigan"
+  },
+  {
+    "id": 7,
+    "name": "Beef Supreme",
+    "picture": "images/Beef Supreme.png",
+    "age": "1 year",
+    "species": "Cat",
+    "breed" : "Mixed",
+    "location": "Fenton, Michigan"
+  },
+  {
+    "id": 8,
+    "name": "Larry",
+    "picture": "images/Larry.png",
+    "age": "10 years",
+    "species": "Cat",
+    "breed" : "Longhair",
+    "location": "Fenton, Michigan"
+  },
+  {
+    "id": 9,
+    "name": "Mister Mistofolees",
+    "picture": "images/Mister Mistofolees.png",
+    "age": "7 years",
+    "species": "Cat",
+    "breed" : "Tuxedo",
+    "location": "Swartz Creek, Michigan"
+  },
+  {
+    "id": 10,
+    "name": "Ophelia",
+    "picture": "images/Ophelia.jpg",
+    "age": "6 months",
+    "species": "Dog",
+    "breed" : "Golden Retriever",
+    "location": "Frankenmuth, Michigan"
+  }
+
+ 
+]
